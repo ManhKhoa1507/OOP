@@ -1,0 +1,5 @@
+﻿  PhanSo.cpp
+C:\Users\ADmin\Downloads\Bai01\PhanSo.cpp(66,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADmin\Downloads\Bai01\PhanSo.cpp(67,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADmin\Downloads\Bai01\PhanSo.cpp(67,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OOP-BTTuan02a.vcxproj -> C:\CODE\CODE\C++ CODE\OOP\HoangThiThaoTrang_20522037\x64\Debug\Bai01.exe
